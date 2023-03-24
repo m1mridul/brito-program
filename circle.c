@@ -7,6 +7,8 @@ int main()
     scanf("lf",&R);
     A=P*R*R;
     printf("A=%lf*%lf*%lf",P,R,R,A);
+    printf("A=%lf*%lf*%lf",P,R,R,A);
+    printf("A=%lf*%lf*%lf",P,R,R,A);
 
     return 0;
 }
